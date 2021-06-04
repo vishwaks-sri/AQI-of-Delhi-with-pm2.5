@@ -1,4 +1,4 @@
-# AQI-of-Delhi-with-pm2.5
+# FORECASTING AQI-of-Delhi-with-pm2.5
 Business Objective:
 Particulate matter (PM ) has been recorded in Delhi to understand the air quality on an hourly basis for 4 months. Our objective is to forecast the data available .
  
